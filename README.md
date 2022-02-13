@@ -1,7 +1,7 @@
 # ProjectB6_Code01
 ### Welcome to Project Code Repositry
 #### **INTRODUCTION**
-This code repositry is used for testing purposes. **developed by itechnet.com**
+This code repositry is used for testing purposes. **developed by [itechnets.com](https://wwww.itechnets.com)**
 this feature of ~~croping text~~ is not available in new version
 #### **HOW TO EXECUTE**
 to start with execute following command
